@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <title>Life Planner — LP pocket poster</title>
-  <path fill="#503bb8" d="M0 0h512v512H0z"/>
-  <g transform="translate(20 20) scale(.92)">
-  <path fill="#cef14b" d="M70 74h372v288H70z"/>
-  <path fill="#181c19" d="M104 108h58v186h66v38H104zM250 108h87c49 0 70 27 70 76s-21 77-70 77h-29v71h-58zm58 49v54h26c16 0 21-9 21-27s-5-27-21-27z"/>
-  <path fill="#ffc9ef" d="M70 376h372v62H70z"/>
-  <path fill="#181c19" d="m318 395 15 15 28-28 11 11-39 39-26-26zM99 400h183v14H99z"/>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>Life Planner Four + One — Cobalt + lime</title><rect x="0" y="0" width="512" height="512" fill="#2448de"/><rect x="104" y="104" width="136" height="136" fill="#f3f0e6"/><rect x="272" y="104" width="136" height="136" fill="#f3f0e6"/><rect x="104" y="272" width="136" height="136" fill="#f3f0e6"/><rect x="272" y="272" width="136" height="136" fill="#cef14b"/><rect x="328" y="299" width="24" height="82" fill="#181c19"/><rect x="299" y="328" width="82" height="24" fill="#181c19"/></svg>
