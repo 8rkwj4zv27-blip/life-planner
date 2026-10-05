@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><rect width="512" height="512" rx="112" fill="#234e43"/><path d="M158 262l65 65 134-144" fill="none" stroke="#eff8b8" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/><circle cx="365" cy="365" r="20" fill="#eff8b8"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <title>Life Planner — LP pocket poster</title>
+  <path fill="#503bb8" d="M0 0h512v512H0z"/>
+  <g transform="translate(20 20) scale(.92)">
+  <path fill="#cef14b" d="M70 74h372v288H70z"/>
+  <path fill="#181c19" d="M104 108h58v186h66v38H104zM250 108h87c49 0 70 27 70 76s-21 77-70 77h-29v71h-58zm58 49v54h26c16 0 21-9 21-27s-5-27-21-27z"/>
+  <path fill="#ffc9ef" d="M70 376h372v62H70z"/>
+  <path fill="#181c19" d="m318 395 15 15 28-28 11 11-39 39-26-26zM99 400h183v14H99z"/>
+</g>
+</svg>
